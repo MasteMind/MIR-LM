@@ -1,0 +1,18 @@
+# Checkpoints and models
+checkpoints/
+*.pt
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Dataset binaries and temp corpora
+data_bin/
+corpus_temp/
+*.npy
+*.bin
+
+# Temporary or workspace configurations
+.zcode/
+scratch/
+.ipynb_checkpoints/
